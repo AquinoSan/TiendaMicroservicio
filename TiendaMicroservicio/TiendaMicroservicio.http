@@ -1,0 +1,4 @@
+@TiendaMicroservicio_HostAddress = http://localhost:7091
+
+GET {{TiendaMicroservicio_HostAddress}}/api/producto
+Accept: application/json
